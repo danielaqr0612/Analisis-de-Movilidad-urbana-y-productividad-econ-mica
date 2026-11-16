@@ -1,0 +1,2 @@
+# Analisis-de-Movilidad-urbana-y-productividad-econ-mica
+Analizar la relación entre la movilidad urbana y la productividad económica en las principales ciudades de Latinoamérica mediante la limpieza y transformación de datos con Python, integrando información de movilidad y economía para identificar oportunidades de inversión en infraestructura de transporte que impulsen la productividad y el bienestar.
