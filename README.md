@@ -40,8 +40,23 @@ Python: pandas, numpy, seaborn, matplotlib
 <img width="1148" height="379" alt="Captura de pantalla 2026-11-15 a la(s) 6 39 53 p m" src="https://github.com/user-attachments/assets/2d93de25-f81a-4fa5-baa7-4b50219776aa" />
 
 
+
+**📊 Analisis y Visualizaciones**
+
+
+**Boxplot para observar el comportamiento de los minutos de congestion JamsDelay**
+
 <img width="578" height="428" alt="Captura de pantalla 2026-11-15 a la(s) 7 21 48 p m" src="https://github.com/user-attachments/assets/e2563239-3e89-4023-884e-fdc94df136b1" />
 
+
+**Histograma para ver la distribución de la economía**
+
+<img width="548" height="425" alt="Captura de pantalla 2026-11-15 a la(s) 7 25 32 p m" src="https://github.com/user-attachments/assets/5ca1fc1d-a64f-4efc-829a-a4be4a41a208" />
+
+
+**Gráfico de barras para comparar jams_delay y city_gdp_capita por ciudad**
+
+<img width="561" height="508" alt="Captura de pantalla 2026-11-15 a la(s) 7 26 15 p m" src="https://github.com/user-attachments/assets/7c04ca41-6090-4802-bbaf-b4305c09d9f7" />
 
 
 **📈 Hallazgos Principales:**
